@@ -1,0 +1,7 @@
+Estudiante: Nicolás Adolfo Castillo Betancourt
+
+Archivo csv: Melbourne.csv.gz
+Las librerias utilizadas fueron: pandas, matplotlib.pyplot y seaborn
+La carpeta principal del notebook se debe llamar "sample_data"
+Por vafor Ejecutar secuencialmente el notebook mientras se van revisando los análisis realizados de tipo técinco y de negocio
+El reporte ejecutivo se llama "Informe Ejecutivo - Nicolás Castillo"
